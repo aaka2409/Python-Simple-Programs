@@ -4,5 +4,5 @@ A repository with python simple programs to hacktoberfest
 
 ## How to participated?
 First you have to create an account in [Hacktoberfest](https://hacktoberfest.digitalocean.com/). 
-After this, you can Fork this repository, upload your programms, and create a pull request. If evething its ok, i will accept and you will get it a new contribution in hacktoberfest 2021!
+After this, you can Fork this repository, upload your programs, and create a pull request. If evething its ok, i will accept and you will get it a new contribution in hacktoberfest 2021!
 

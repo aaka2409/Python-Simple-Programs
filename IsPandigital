@@ -1,0 +1,17 @@
+#Check if the number n, of the given base is pandigital
+def IsPandigital(n,base):
+  
+  if base < 2:
+    return False
+
+  number=str(n)
+
+  #if len of number is less than te base is not pandigital
+  if len(number) < base:
+    return False
+
+  #Check if the number have all number of its base-1
+  for num in range(0,base):
+    if not str(num) in number:
+      return False
+  return True

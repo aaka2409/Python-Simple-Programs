@@ -1,4 +1,4 @@
-mport os
+import os
 
 print("1. Shutdown Computer Immediately")
 print("2. Shutdown Computer after Given Time")

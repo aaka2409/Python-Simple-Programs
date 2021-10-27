@@ -40,7 +40,7 @@ def mergeSort(arr,start,end):
         merge(arr,start,end,mid)
 
 
-arr = [11668, 557, 6333, 11501, 1545, 10006, 18211, 8189, 1152, 19266]
+arr = [11668, 557, 6333, 11501, 1545, 10006, 18211, 8189, 1152, 19266, 444444]
 start = timeit.default_timer()
 mergeSort(arr,0,len(arr)-1)
 end   = timeit.default_timer()
